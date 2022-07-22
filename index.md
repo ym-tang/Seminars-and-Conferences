@@ -1,4 +1,4 @@
-### Here're seminars and conferences I particpated in. In this semester (between February and July), we are not allowed to go back to school for COVID-19 reasons. So no offline seminar is able to hold.
+### Here're seminars and conferences I particpated in. In this semester (between February and July), we are not allowed to go back to school for covid-19 reasons. So no offline seminar is able to hold.
   
   
 
