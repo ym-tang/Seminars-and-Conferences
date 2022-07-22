@@ -1,4 +1,4 @@
-### Here're seminars and conferences I particpated in. In this semester (between February and July), we are not allowed to go back to school for covid-19 reasons. So no offline seminar is able to hold.
+### Here're seminars and conferences I particpated in. In this semester (between February and July), we are not allowed to go back to school for covid-19 reasons, so no offline seminar is able to hold.
   
   
 
@@ -23,7 +23,7 @@ Main content: Arithmetic fundamental groups, weak and strong approximation of ra
 Main content: reduction of modular curves, Deligne-Rapoport’s moduli interpretation, Tate curve, Eichler-Shimura isomorphism, Galois representations and Atkin-Lehner theory.  
 
 - **My report on Ribet-Herbrand theorem**            &#160;&#160;&#160;&#160;&#160;&#160;        **_04/29/2022_**      
-In this summer, I spent two hours to introduce this famous work of Ribet to some of mine classmates and teachers, which discussed the relation between Bernoulli numbers and class group of p-th cyclotomic fields.
+In this summer, I spent two hours to introduce this famous work of Ribet to some classmates and teachers of mine, which discussed the relation between Bernoulli numbers and class group of p-th cyclotomic fields.
 
 
 
