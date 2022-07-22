@@ -1,4 +1,4 @@
-- **Seminar on Local fields**                          &#160;&#160;&#160;&#160;&#160;&#160;  **_09/2020-01/2021_  
+- **Seminar on Local fields**                          &#160;&#160;&#160;&#160;&#160;&#160;  **_09/2020-01/2021_**  
 Main content: selected topics from Serre’s famous book [14].
 - **Seminar on padic L-functions**               &#160;&#160;&#160;&#160;&#160;&#160;          **_03/2021-06/2021_  
 Main content: Introduction to p-adic L-functions and Drinfeld module.
