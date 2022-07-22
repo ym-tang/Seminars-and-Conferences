@@ -1,9 +1,8 @@
 ### Here're seminars and conferences I particpated in. In this semester (between February and July), we are not allowed to go back to school for covid-19 reasons, so no offline seminar is able to hold.
   
   
-
-
-
+  
+  
 - **Seminar on Local fields**                          &#160;&#160;&#160;&#160;&#160;&#160;  **_09/2020-01/2021_**  
 Main content: selected topics from Serre’s famous book <corps locaux>.  
 
