@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+- **Seminar on Local fields**                                                                              09/2020-01/2021 Main content: selected topics from Serre’s famous book [14].
+- **Seminar on padic L-functions**                                                                  03/2021-06/2021 Main content: Introduction to p-adic L-functions and Drinfeld module.
+- **Seminar on Tate’s thesis**                                                                             03/2021-06/2021 Main content: Tate’s thesis, background of harmonic analysis and topological groups.
+- **Weekend Workshop in Number Theory and Arithmetic Geometry**                                                                       (South University of Science and Technology of China)                                      05/2021                                                                                                                                                                                                   Main content: Four talks on rigid geometry, twin primes conjecture, quadratic twist of elliptic curves and integral points on indefinite ternary quadratic equations over number fields.
+- **Seminar on section conjecture**                                                                 09/2021-01/2022 Main content: Arithmetic fundamental groups, weak and strong approximation of rational points, Brauer-Manin obstruction and some other content in Poonen’s book [15].
+- **Seminar on modular curves**                                                                       09/2021-01/2022 Main content: reduction of modular curves, Deligne-Rapoport’s moduli interpretation, Tate curve, Eichler-Shimura isomorphism, Galois representations and new forms.
+- **My report on Ribet’s work [4]**                                                               04/29/2022      In this summer, I spent two hours to introduce content of this paper to some of mine classmates and teachers. I attached beamer document used at then with the email.
 
-You can use the [editor on GitHub](https://github.com/ym-tang/Seminars-and-Conferences/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ym-tang/Seminars-and-Conferences/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Home](https://ym-tang.github.io/Home/)
+### [Education Background](https://ym-tang.github.io/Educational-Background/)
+### [Mathematical Background](https://ym-tang.github.io/Mathematical-Background/)
+### [Talks and Slides](https://ym-tang.github.io/Talks-and-Slides/)
