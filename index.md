@@ -28,4 +28,7 @@ In this summer, I spent two hours to introduce content of this paper to some of 
 ### [Home](https://ym-tang.github.io/Home/)
 ### [Education Background](https://ym-tang.github.io/Educational-Background/)
 ### [Mathematical Background](https://ym-tang.github.io/Mathematical-Background/)
+### [Some Attempts](https://ym-tang.github.io/Some-Attempts/)
+
+
 ### [Talks and Slides](https://ym-tang.github.io/Talks-and-Slides/)
