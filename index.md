@@ -19,7 +19,6 @@ Main content: reduction of modular curves, Deligne-Rapoport’s moduli interpret
 - **My report on Ribet’s work [4]**            &#160;&#160;&#160;&#160;&#160;&#160;        **_04/29/2022_**      
 In this summer, I spent two hours to introduce content of this paper to some of mine classmates and teachers. I attached beamer document used at then with the email.
 
-## References
 
 
 
