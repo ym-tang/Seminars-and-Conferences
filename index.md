@@ -10,8 +10,8 @@ Main content: Tate’s thesis, background of harmonic analysis and topological g
 - **Weekend Workshop in Number Theory and Arithmetic Geometry(South University of Science and Technology of China)**                  &#160;&#160;&#160;&#160;&#160;&#160;            **_05/2021_**  
 Main content: Four talks on rigid geometry, twin primes conjecture, quadratic twist of elliptic curves and integral points on indefinite ternary quadratic equations over number fields.  
 
-- **Seminar on section conjecture**                &#160;&#160;&#160;&#160;&#160;&#160;      **_09/2021-01/2022_** 
- Main content: Arithmetic fundamental groups, weak and strong approximation of rational points, Brauer-Manin obstruction and some other content in Poonen’s book [15].  
+- **Seminar on section conjecture**                &#160;&#160;&#160;&#160;&#160;&#160;      **_09/2021-01/2022_**  
+Main content: Arithmetic fundamental groups, weak and strong approximation of rational points, Brauer-Manin obstruction and some other content in Poonen’s book [15].  
  
 - **Seminar on modular curves**              &#160;&#160;&#160;&#160;&#160;&#160;          **_09/2021-01/2022_**  
 Main content: reduction of modular curves, Deligne-Rapoport’s moduli interpretation, Tate curve, Eichler-Shimura isomorphism, Galois representations and new forms.  
